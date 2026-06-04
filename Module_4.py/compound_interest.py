@@ -3,7 +3,7 @@ Amount = P( 1 + R/100)**T
 Compound Interest (CI)= Amount - P
 """
 
-principal = float(input("Enter the principla amount: "))
+principal = float(input("Enter the principal amount: "))
 rate = float(input("Enter the rate: "))
 time = float(input("Enter the time: "))
 

@@ -11,4 +11,4 @@ T = float(input("Enter the time: "))
 
 SI = (P * R * T) / 100
 
-print("The Simple Interest ")
+print("The Simple Interest: " SI)

@@ -7,7 +7,7 @@ pop()
 # extend
 fruits = ["Apple", "Mango", "Orange"]
 # fruits.append("Banana", "Grapes")
-# This above sntax throws an error because append fn can add only one elent at a time not more
+# This above sntax throws an error because append fn can add only one element at a time not more
 # print(fruits)
 
 # fruits.append(["Banana", "Grapes"])
